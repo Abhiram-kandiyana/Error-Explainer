@@ -33,8 +33,8 @@ in software development environments.
 | Zero-shot   | 0.82       | 9.6              | 28.67      |
 | Fine-Tuning                     | 0.78       | 9.4              | 40.33      |
 | Random-Prompting 4-shot         | 0.88       | 4.9              | 32.67      |
-| <mark>Same-Class-Prompting 4-shot</mark> | <mark>0.89</mark>   | <mark>4</mark>          | <mark>46.67</mark>  |
-| Manual-Prompting 4-shot         | 0.39       | 2.7              | 18.33      |
+| <mark>Same-Class-Prompting 4-shot</mark> | <mark>0.89</mark>   | 4        | <mark>46.67</mark>  |
+| Manual-Prompting 4-shot         | 0.39       | <mark>2.7</mark>              | 18.33      |
 
 ## Human Evaluation Results
 | Examiner  | Zero-shot | Finetuned | Random-Prompting 4-shot | Same-class-Prompting 4-shot | Manual-Prompting 4-shot | GPT-4 (baseline) |
